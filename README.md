@@ -5,7 +5,7 @@ simple flashcard app to show lbl hidden and tap gesture
 
 ### App Walk-though
 
-<img src="https://makeagif.com/gif/labonegif-xsSEwp" width=200><br>
+<img src="https://i.imgflip.com/2k1xxk.gif"/></a>" width=200><br>
 
 
 ## Required
